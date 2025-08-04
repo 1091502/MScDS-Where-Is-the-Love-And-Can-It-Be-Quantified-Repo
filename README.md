@@ -11,13 +11,13 @@ This repository contains the research materials for the Master's thesis:
 /MSc-Dissertation/
 ├── processed_love_song_dataset_FINAL.csv
 ├── Love Song Analysis Script.ipynb
-├── BERTopic_Script.ipynb
+├── BERTopic_Script.py
 └── README.md
 
 - **`Love Song Analysis Script.ipynb`**  
   Contains Python code to run the main analyses used in the study, including lyric preprocessing, topic modelling (LDA), generational segmentation, and a network analysis of songwriting credits.
 
-- **`BERTopic_Script.ipynb`**  
+- **`BERTopic_Script.py`**  
   Alternative topic modelling (BERTopic) used for comparison. This was written and executed in Google Colab.
 
 - **`processed_love_song_dataset_FINAL.csv`**  
